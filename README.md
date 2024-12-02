@@ -50,8 +50,8 @@ Este projeto é ideal para quem deseja compreender a dinâmica dos juros compost
 ### 5.2. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-repositorio/comparador-de-investimentos.git
-cd comparador-de-investimentos
+git clone git@github.com:FelipeTiLustosa/jurosCompostos-flutter.git
+cd jurosCompostos-flutter
 
 ```
 ### 5.3. Executar o Projeto
