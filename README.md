@@ -52,6 +52,7 @@ Este projeto é ideal para quem deseja compreender a dinâmica dos juros compost
 ```bash
 git clone https://github.com/seu-repositorio/comparador-de-investimentos.git
 cd comparador-de-investimentos
+
 ```
 ### 5.3. Executar o Projeto
 
